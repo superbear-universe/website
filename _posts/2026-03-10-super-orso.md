@@ -5,7 +5,7 @@ date:   2026-03-10 09:00:00 +0100
 categories: stories drafts
 ---
 
-![Nighttime rooftop clash between Superbear and Andrew](/stories/assets/images/2026-03-10-super-orso/001.png)
+[![A powerful nighttime rooftop fight between two muscular men. On the left, a heavily muscular bearded man with dark hair wearing a black latex shirt, leather harness, black leather pants, and boots lunges forward, driving his shoulder into the chest of a superhero. On the right, the superhero — an enormous bearded man in a blue bodysuit with red panels, gold trim, a bear paw emblem on his chest, red boots, and a flowing red cape—absorbs the impact while sliding slightly across the gravel rooftop. Dust, sparks, and small stones burst outward from the collision as the city skyline glows behind them under a dark night sky.](/stories/assets/images/2026-03-10-super-orso/001.png "Nighttime rooftop clash between Superbear and Andrew")](/stories/assets/images/2026-03-10-super-orso/001.png)
 
 The directive was simple: intercept the hero. Neutralise. Return.
 
