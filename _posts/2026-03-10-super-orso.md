@@ -4,9 +4,10 @@ title:  "Super Orso - Draft"
 date:   2026-03-10 09:00:00 +0100
 categories: stories drafts
 ---
-The directive was simple: intercept the hero. Neutralise. Return.
 
 ![Nighttime rooftop clash between Superbear and Andrew](/stories/assets/images/2026-03-10-super-orso/001.png)
+
+The directive was simple: intercept the hero. Neutralise. Return.
 
 Andrew was already moving when Superbear cleared the rooftop edge. The body knew what to do — it always knew now, the conditioning sitting deep in the muscle, in the reflex, in the space where deciding used to happen. He crossed the gap between buildings fast and low, boots finding the ledge and leaving it in the same motion, and closed the distance before the hero had fully turned.
 
