@@ -6,7 +6,7 @@ categories: stories drafts
 ---
 The directive was simple: intercept the hero. Neutralise. Return.
 
-![Super Orso](/assets/images/2026-03-10-super-orso/artwork2.png)
+![Super Orso](/stories/assets/images/2026-03-10-super-orso/artwork2.png)
 
 Andrew was already moving when Superbear cleared the rooftop edge. The body knew what to do — it always knew now, the conditioning sitting deep in the muscle, in the reflex, in the space where deciding used to happen. He crossed the gap between buildings fast and low, boots finding the ledge and leaving it in the same motion, and closed the distance before the hero had fully turned.
 
