@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+**Welcome to the Superbear Universe.**
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+This is where big men get bigger — and the world has to deal with it.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+The Superbear Universe follows Superbear, Supercub, and the growing cast of men whose lives are changed by Bear energy: the transformative force that reshapes the body to match the life a person is ready to claim. Some choose it. Some have it forced on them. That distinction is the whole argument.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Stories are published as a numbered main series and standalone transformations. You don't need to read everything to enjoy anything — but the more you know, the more it hits.
