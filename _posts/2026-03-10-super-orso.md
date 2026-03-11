@@ -183,5 +183,3 @@ He pulled the cape around and looked at it — the red against the blue, the wei
 He flexed again. Watched Nick's expression do something small and amused.
 
 He could figure out the rest later. He had time.
-
-Italy could wait. He had time.
