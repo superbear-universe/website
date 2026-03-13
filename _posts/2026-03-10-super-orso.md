@@ -26,13 +26,21 @@ He kept moving.
 
 Superbear pulled back. Went up.
 
+[![002](/stories/assets/images/2026-03-10-super-orso/002.png "Andrew faces Superbear under stormy skies")](/stories/assets/images/2026-03-10-super-orso/002.png)
+
 Andrew tracked him and had nothing to offer. The hero rose fast — ten feet, twenty, thirty — and from up there went still, hovering with the city spread out behind him, looking down at the figure on the roof with an expression that gave him nothing. A pause that lasted long enough to feel deliberate. Long enough to feel like a decision being made.
 
 Then he came down fast, closing the distance before Andrew could move, and drove into him with his full weight behind it — a tackle that took them both to the ground hard.
 
-The impact drove Andrew onto his back, the gravel biting into his shoulders, his vision whiting at the edges. The harness — already stressed, the chest strap half-pulled from its anchor — took the shock and gave. The remaining strap snapped, the buckle scraping a hot line across his chest, and with it something else gave too — the suppression dropping a register, thin and unstable where it had been solid. Superbear's hand closed around Andrew's bare forearm, holding him down, and something moved through that contact — rainbow energy, unasked for, finding the gap in the suppression before either of them understood what was happening. What happened next was a break — clean and sudden and total, the way ice goes.
+The impact drove Andrew onto his back, the gravel biting into his shoulders, his vision whiting at the edges. The harness — already stressed, the chest strap half-pulled from its anchor — took the shock and gave. The remaining strap snapped, the buckle scraping a hot line across his chest, and with it something else gave too — the suppression dropping a register, thin and unstable where it had been solid. 
+
+[![003](/stories/assets/images/2026-03-10-super-orso/003.png "Superbear's power blast on rooftop")](/stories/assets/images/2026-03-10-super-orso/003.png)
+
+Superbear's hand closed around Andrew's bare forearm, holding him down, and something moved through that contact — rainbow energy, unasked for, finding the gap in the suppression before either of them understood what was happening. What happened next was a break — clean and sudden and total, the way ice goes.
 
 Andrew was flat on his back on a rooftop in a torn harness in a body chosen for him, and he was himself, fully and completely and horribly himself, for the first time since the warehouse. Superbear was still over him, one hand on his forearm, the weight of him close.
+
+[![004](/stories/assets/images/2026-03-10-super-orso/004.png "Superbear's power blast on rooftop")](/stories/assets/images/2026-03-10-super-orso/004.png)
 
 He tried to speak. What came out first was: "*Cazzo.*"
 
@@ -48,9 +56,29 @@ Andrew looked up at him. The city's hero, three feet away.
 
 That was four weeks ago.
 
+<div style="display:flex; gap:10px;">
+  <a href="/stories/assets/images/2026-03-10-super-orso/005.png" style="width:33%;">
+    <img src="/stories/assets/images/2026-03-10-super-orso/005.png">
+  </a>
+  <a href="/stories/assets/images/2026-03-10-super-orso/006.png" style="width:33%;">
+    <img src="/stories/assets/images/2026-03-10-super-orso/006.png">
+  </a>
+    <a href="/stories/assets/images/2026-03-10-super-orso/007.png" style="width:33%;">
+    <img src="/stories/assets/images/2026-03-10-super-orso/007.png">
+  </a>
+</div>
+
 What followed happened in pieces, the way things do when the body is fighting itself. A guest room somewhere safe, its address kept from him. The physical regression arrived within the first day — mass receding, body hair thinning, the beard shortening until the mirror showed him someone he recognised. The exchange student. His own face, looking back at him.
 
-The corruption surfaced without warning. Dark and sudden, his voice going wrong, something foreign moving through him. It was loud — pressure more than sound, a constant roar that pushed his own thoughts to the edges. During those episodes Superbear stayed — every time, without being asked. He sat at the edge of the bed and said nothing, and when the wave crested he placed a hand flat against Andrew's chest and held it there. The roar stopped. Just stopped, the way a door closes on noise from another room. A warmth stayed behind where the hand had been, faint and specific, like the afterimage of something bright. Andrew lay still. Superbear kept his hand there until his breathing evened out, then lifted it. Neither of them mentioned it.
+[![008](/stories/assets/images/2026-03-10-super-orso/008.png "008")](/stories/assets/images/2026-03-10-super-orso/008.png)
+
+The corruption surfaced without warning. Dark and sudden, his voice going wrong, something foreign moving through him. It was loud — pressure more than sound, a constant roar that pushed his own thoughts to the edges.
+
+[![009](/stories/assets/images/2026-03-10-super-orso/009.png "009")](/stories/assets/images/2026-03-10-super-orso/009.png)
+
+ During those episodes Superbear, now as Mike, came — every time, without being asked. He sat at the edge of the bed and said nothing, and when the wave crested he placed a hand flat against Andrew's chest and held it there. The roar stopped. Just stopped, the way a door closes on noise from another room. A warmth stayed behind where the hand had been, faint and specific, like the afterimage of something bright. Andrew lay still. Mike kept his hand there until his breathing evened out, then lifted it. Neither of them mentioned it.
+
+[![010](/stories/assets/images/2026-03-10-super-orso/010.png "010")](/stories/assets/images/2026-03-10-super-orso/010.png)
 
 Andrew carried it afterward. Some mornings he woke with his chest feeling fuller than it should, a low steady heat that wasn't quite his own. He didn't know what to make of it. He left it alone.
 
@@ -59,6 +87,8 @@ Alone in the dark some nights later, his mind ran the room. The campus ad placed
 He lay there and held that and let it become something harder than shame.
 
 ---
+
+[![011](/stories/assets/images/2026-03-10-super-orso/011.png "011")](/stories/assets/images/2026-03-10-super-orso/011.png)
 
 Today was the first day outside.
 
