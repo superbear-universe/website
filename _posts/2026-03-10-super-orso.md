@@ -166,7 +166,7 @@ Nick looked at Mike. Then back at Andrew. "The energy Mike put into you during r
 
 Andrew turned it over. It felt true.
 
-"You're one of us now." A small smile. "Have you thought about a name yet?"
+Nick smiled. "You're one of us now." A pause. "Have you thought about a name yet?"
 
 Andrew looked between them. "I was thinking—" He paused. "*Super Orso.*" He said it like he was still deciding whether it fit.
 
