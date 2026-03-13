@@ -74,7 +74,7 @@ One of Butch Bear's goons had a young man backed against a wall outside a closed
 
 Andrew recognised every beat of it.
 
-The approach. The flattery. The slow narrowing of options until staying felt easier than leaving, and leaving felt like the stranger's idea of what you should do.
+The approach. The flattery. The slow narrowing of options until staying felt easier than leaving.
 
 He recognised the target. He knew that body language from the inside.
 
@@ -138,7 +138,7 @@ He came through the apartment door looking like that.
 
 Mike was on his feet instantly. "*What the hell—*"
 
-He stopped. Stared. Andrew watched him work through it — the size, the suit, the beard, the sheer amount of him filling the doorframe — and then land on his face.
+He stopped. Stared. Working through it — the size, the suit, the beard, the sheer amount of him filling the doorframe — before landing on his face.
 
 "Andrew?"
 
@@ -154,7 +154,7 @@ He crossed to him in two steps, both hands landing on Andrew's arms — gripping
 
 "I'm seeing it," Nick said from across the room.
 
-He was leaning in the kitchen doorway, arms folded, watching with an expression Andrew was starting to be able to read. Quiet. Genuinely pleased. Not performing it. He pushed off the wall and crossed to Andrew, looked at him for a moment — the suit, the size, the cape — then met his eyes.
+He was leaning in the kitchen doorway, arms folded, watching with an expression Andrew was starting to be able to read. Quiet. Genuinely pleased. Not performing it. He pushed off the wall and crossed to Andrew, watching the way he held himself. Something had settled in him. Nick looked at him for a moment, then met his eyes.
 
 "You're one of us now." A small smile. "Have you thought about a name yet?"
 
@@ -168,9 +168,15 @@ Mike's mouth opened. Closed. He looked at Andrew. Then at himself. Then back at 
 
 Nick smiled. Just that.
 
-He looked down at himself. Super Orso. The suit was real. The name was real.
+"*Super Orso,*" Mike said again, quietly, to himself. Still tasting it.
 
-It felt good to be looked at this way — different from anything Bill had given him, different in quality, in direction, in what it assumed he was for. Mike and Nick were looking at him like he'd done something.
+Nick glanced at Mike, then back at Andrew. "How did you transform? We weren't there to do it."
 
-He could figure out the rest later. He had time.
+"There was one of Butch Bear's goons," Andrew said. "Outside. He had someone backed against a wall — running the same script they used on me." He paused. "I stepped between them. And then it just — happened."
+
+Nick looked at Mike. Then back at Andrew. "The energy Mike put into you during recovery." He said it slowly, like he was reasoning it out. "It must have collected itself. And then you triggered it."
+
+Andrew turned it over. It felt true.
+
+He looked down at himself. Super Orso. The suit was real. The name was real. There was a lot he still needed to figure out — but he knew where to start.
 
