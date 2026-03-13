@@ -156,6 +156,14 @@ He crossed to him in two steps, both hands landing on Andrew's arms — gripping
 
 He was leaning in the kitchen doorway, arms folded, watching with an expression Andrew was starting to be able to read. Quiet. Genuinely pleased. Not performing it. He pushed off the wall and crossed to Andrew, watching the way he held himself. Something had settled in him. Nick looked at him for a moment, then met his eyes.
 
+"You seem like yourself." A pause. "How did you transform? We weren't there to do it."
+
+"There was one of Butch Bear's goons," Andrew said. "Outside. He had someone backed against a wall — running the same script they used on me." He paused. "I stepped between them. And then it just — happened."
+
+Nick looked at Mike. Then back at Andrew. "The energy Mike put into you during recovery." He said it slowly, like he was reasoning it out. "It must have collected itself. And then you triggered it."
+
+Andrew turned it over. It felt true.
+
 "You're one of us now." A small smile. "Have you thought about a name yet?"
 
 Andrew looked between them. "I was thinking—" He paused. "*Super Orso.*" He said it like he was still deciding whether it fit.
@@ -166,17 +174,7 @@ Andrew looked between them. "I was thinking—" He paused. "*Super Orso.*" He sa
 
 Mike's mouth opened. Closed. He looked at Andrew. Then at himself. Then back at Andrew. "*I don't care.* It's still the one. I love it!"
 
-Nick smiled. "Can´t argue with that. Super Orso it is."
+Nick smiled. "Can't argue with that. Super Orso it is."
 
-"*Super Orso,*" Mike said again, quietly, to himself. Still tasting it.
-
-Nick glanced at Mike, then back at Andrew. "How did you transform? We weren't there to do it."
-
-"There was one of Butch Bear's goons," Andrew said. "Outside. He had someone backed against a wall — running the same script they used on me." He paused. "I stepped between them. And then it just — happened."
-
-Nick looked at Mike. Then back at Andrew. "The energy Mike put into you during recovery." He said it slowly, like he was reasoning it out. "It must have collected itself. And then you triggered it."
-
-Andrew turned it over. It felt true.
-
-He looked down at himself. Super Orso. The suit was real. The name was real. There was a lot he still needed to figure out — but he knew where to start.
+Andrew looked down at himself. Super Orso. The suit was real. The name was real. There was a lot he still needed to figure out — but he knew where to start.
 
