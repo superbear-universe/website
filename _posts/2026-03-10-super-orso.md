@@ -173,6 +173,8 @@ The goon looked up at him. Looked at the suit. Looked at the size of him.
 
 Then swung anyway.
 
+[![022](/stories/assets/images/2026-03-10-super-orso/022.png "022")](/stories/assets/images/2026-03-10-super-orso/022.png)
+
 The fist connected with Andrew's jaw and Andrew felt it — felt it the way you feel a tap on the shoulder. He turned his head with the impact, more out of surprise than necessity, and looked back at the goon with an expression he couldn't quite read on his own face.
 
 The goon stared at his own hand.
