@@ -179,7 +179,11 @@ The fist connected with Andrew's jaw and Andrew felt it — felt it the way you 
 
 The goon stared at his own hand.
 
-Andrew reached out, closed one hand around the goon's harness, and hoisted him off the pavement — one arm, no effort. He looked at him for a moment, dangling. Then tossed him aside. The goon hit the ground hard.
+Andrew reached out, closed one hand around the goon's harness, and hoisted him off the pavement — one arm, no effort. 
+
+[![023](/stories/assets/images/2026-03-10-super-orso/023.png "023")](/stories/assets/images/2026-03-10-super-orso/023.png)
+
+He looked at him for a moment, dangling. Then tossed him aside. The goon hit the ground hard.
 
 He scrambled to his feet. Looked at Andrew, then at his own hands, then back at Andrew.
 
@@ -187,9 +191,11 @@ He scrambled to his feet. Looked at Andrew, then at his own hands, then back at 
 
 He left. Quickly.
 
-Andrew turned to the young man, who was standing very still with his back against the shop front, staring.
+Andrew turned to the young man, who was standing very still with his back against the wall, staring.
 
 "Are you hurt?" Andrew asked. Then, when the man stood silent: "*Stai bene?*"
+
+[![024](/stories/assets/images/2026-03-10-super-orso/024.png "024")](/stories/assets/images/2026-03-10-super-orso/024.png)
 
 The man blinked. "I'm — yeah. I'm okay. What just—"
 
@@ -209,6 +215,8 @@ Mike was on his feet instantly. "*What the hell—*"
 
 He stopped. Stared. Working through it — the size, the suit, the beard, the sheer amount of him filling the doorframe — before landing on his face.
 
+[![030](/stories/assets/images/2026-03-10-super-orso/030.png "030")](/stories/assets/images/2026-03-10-super-orso/030.png)
+
 "Andrew?"
 
 "It's me," Andrew said.
@@ -218,6 +226,8 @@ He stopped. Stared. Working through it — the size, the suit, the beard, the sh
 Andrew glanced down at his own arm. Raised it slowly, almost uncertainly, and flexed — a small, shy smile breaking through. The sleeve pulled tight across his bicep. Mike grabbed his own head with both hands in excitement and squealed.
 
 He crossed to him in two steps, both hands landing on Andrew's arms — gripping the bicep, the shoulder, squeezing, moving to the chest and back again. Talking the entire time, at least two things simultaneously, his delight so uncontained it had become its own weather system.
+
+[![031](/stories/assets/images/2026-03-10-super-orso/031.png "031")](/stories/assets/images/2026-03-10-super-orso/031.png)
 
 "—just like us, look at you, oh my god that huge hairy chest — that *suit* — is that blue, that's your blue — and the beard — *Nick*, are you seeing this—"
 
@@ -246,4 +256,6 @@ Mike's mouth opened. Closed. He looked at Andrew. Then at himself. Then back at 
 Nick smiled. "Can't argue with that. Super Orso it is."
 
 Andrew looked down at himself. Super Orso. The suit was real. The name was real. There was a lot he still needed to figure out — but he knew where to start.
+
+[![032](/stories/assets/images/2026-03-10-super-orso/032.png "032")](/stories/assets/images/2026-03-10-super-orso/032.png)
 
