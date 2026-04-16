@@ -24,6 +24,9 @@ baseurl: "/website"
 url: "https://superbear-universe.github.io"
 
 # Build settings
+exclude:
+  - content-source
+
 remote_theme: just-the-docs/just-the-docs
 color_scheme: superbear-dark
 
