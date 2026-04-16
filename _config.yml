@@ -70,12 +70,12 @@ defaults:
   - scope:
       path: "stories/index"
     values:
-      parent: ""
+      parent: null
   - scope:
       path: "characters/index"
     values:
-      parent: ""
+      parent: null
   - scope:
       path: "lore/index"
     values:
-      parent: ""
+      parent: null
