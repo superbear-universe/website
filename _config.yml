@@ -66,3 +66,4 @@ defaults:
     values:
       layout: default
       parent: "Lore"
+      nav_exclude: true
