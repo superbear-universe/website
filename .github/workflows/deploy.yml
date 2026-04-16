@@ -32,6 +32,9 @@ jobs:
           cp -r content-source/characters characters
           cp -r content-source/lore lore
           cp -r content-source/stories stories
+          # Section index pages must be top-level nav items — give them an explicit
+          # empty parent so _config.yml defaults cannot assign a self-referential one.
+          sed -i '/^has_children: true/a parent: ""' characters/index.md lore/index.md stories/index.md
 
       - uses: ruby/setup-ruby@v1
         with:

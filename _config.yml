@@ -66,16 +66,3 @@ defaults:
     values:
       layout: default
       parent: "Lore"
-  # Clear parent for section index pages so they appear as top-level nav items
-  - scope:
-      path: "stories/index"
-    values:
-      parent: null
-  - scope:
-      path: "characters/index"
-    values:
-      parent: null
-  - scope:
-      path: "lore/index"
-    values:
-      parent: null
