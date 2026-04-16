@@ -1,0 +1,28 @@
+// Headings
+h1 { font-size: 2.2rem; }
+h2 { font-size: 1.7rem; }
+h3 { font-size: 1.4rem; }
+
+// Links
+a:visited { color: #d46a6a; }
+
+// Blockquotes
+blockquote {
+  border-left: 4px solid #4a4039;
+  padding-left: 1rem;
+  font-style: italic;
+  color: #cfc6bb;
+}
+
+// Images in content
+.main-content img {
+  max-width: 100%;
+  height: auto;
+  margin: 2rem auto;
+  display: block;
+  border-radius: 6px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+}
+
+// Horizontal rules
+hr { border-color: #3b342f; }
