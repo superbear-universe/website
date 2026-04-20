@@ -61,6 +61,7 @@ defaults:
     values:
       layout: default
       parent: "Characters"
+      nav_exclude: true
   - scope:
       path: "lore"
     values:
